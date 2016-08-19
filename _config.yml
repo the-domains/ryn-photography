@@ -1,16 +1,16 @@
-typography_spectrum: 0.35676877782680094
+layout_spectrum: 0.6760669948998839
+typography_spectrum: 0.5370050796773285
 color:
-  brandStrength: 0.7423248295672238
-  lightness: 0.21481689834035933
-  saturation: 0.28681623423472047
-  rhythmicContrast: 0.13881800579838455
+  brandStrength: 0.34221896436065435
+  lightness: 0.17352841328829527
+  saturation: 0.7129321785178035
+  rhythmicContrast: 0.01593141001649201
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.9301932593807578
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda20203-2132-4b5f-a791-37e436823dd2.jpg
 name: RYN photography
