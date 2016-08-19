@@ -15,9 +15,6 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda20203-2132-4b5f-a791-37e436823dd2.jpg
 name: RYN photography
 navigation:
-  - name: outside
-    id: b1dbe221-6224-4e96-9fc8-79745a5c8a8b
-    type: content
   - name: inside
     id: f07b8267-bf88-411a-9ed3-d518a5809342
     type: content
