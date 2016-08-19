@@ -14,5 +14,9 @@ layout_spectrum: 0.6760669948998839
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda20203-2132-4b5f-a791-37e436823dd2.jpg
 name: RYN photography
+navigation:
+  - name: outside
+    id: 7b3094d8-6a72-47d9-a4fd-b8b1f6f103e6
+    type: content
 title: ''
 description: inside | outside
