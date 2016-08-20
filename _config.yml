@@ -1,19 +1,31 @@
-typography_spectrum: 0.5370050796773285
+title: ''
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda20203-2132-4b5f-a791-37e436823dd2.jpg
 color:
-  brandStrength: 0.34221896436065435
-  lightness: 0.17352841328829527
-  saturation: 0.7129321785178035
-  rhythmicContrast: 0.01593141001649201
+  saturation: 0.7129322
+  brandStrength: 0.3422189643606544
+  lightness: 0.1735284
   brandColors:
     - '#FFFFFF'
     - '#CCCCCC'
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-layout_spectrum: 0.6760669948998839
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bda20203-2132-4b5f-a791-37e436823dd2.jpg
-name: RYN photography
+  rhythmicContrast: 0.7094522
+typography_spectrum: 0.5064447
+description: inside | outside
 navigation:
   - name: outside
     id: 7b3094d8-6a72-47d9-a4fd-b8b1f6f103e6
@@ -21,5 +33,5 @@ navigation:
   - name: inside
     id: 9cfc725a-0794-4b7a-b1a1-32a1602da490
     type: content
-title: ''
-description: inside | outside
+layout_spectrum: 0.003759398
+name: RYN photography
